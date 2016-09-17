@@ -3,3 +3,9 @@ Cold and dry and everything is red
 The two moons may be a problem for our lander
 
 Mars is the nearest planet to us (I think)
+
+So the procedure that appears to happen is that we may be doing research and editing a document. 
+Once we are finished editing the document, we simply want to save it to the repository so we don't lose it.
+Wouldn't that be awful. 
+
+Once we finish editing, we save this then commit it to the repository to be saved.
